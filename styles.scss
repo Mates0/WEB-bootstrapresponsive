@@ -1,8 +1,14 @@
 @import "node_modules/bootstrap/scss/bootstrap";
 #navbar {
-  width: 250px;
+  width: 200px;
+  background-color: lightgray;
 }
 
 #navbardropdown{
-  width: 250px;
+  width: 180px;
+  background-color: lightgray;
+}
+
+.dropdown {
+  margin-bottom: 1000px;
 }
